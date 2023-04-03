@@ -1,3 +1,14 @@
+
+# Portfolio Website With React JS & Tailwind CSS
+# Using:
+1. React JS
+2. Tailwind CSS
+
+# Live Link: https://portfolio-website-react-tailwindcss.netlify.app/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
